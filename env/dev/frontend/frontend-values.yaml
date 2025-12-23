@@ -1,5 +1,5 @@
 image:
-  repository: nitheesh86/microservice-frontend
+  repository: yrollhid/node-frontend-microservice
   tag: 1.0.11
 
 replicaCount: 2
